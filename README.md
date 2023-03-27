@@ -1,3 +1,5 @@
+# CICD Pipeline for Java Application to deploy on Kubernetes Cluster using Jenkins
+![Screenshot (306)](https://user-images.githubusercontent.com/70194383/228031218-1747b563-4280-4e22-bdcd-dfc9e049f891.png)
 ## Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
