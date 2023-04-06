@@ -1,9 +1,7 @@
 # CICD Pipeline for Java Application to deploy on Kubernetes Cluster using Jenkins
 This project is a CICD pipeline for deploying a Java application on a Kubernetes cluster using Jenkins. It uses Docker as the container runtime and Docker Hub as the container registry. The project also includes Sonarqube for code analysis and Helm for packaging and deploying on Kubernetes.
 
-
-![Screenshot (308)](https://user-images.githubusercontent.com/70194383/230273075-a9a924e8-71be-4d77-bdf5-c1ef53f4ccc4.png)
-
+![Screenshot (309)](https://user-images.githubusercontent.com/70194383/230273138-02cd6fec-874d-46ea-90f2-c6a143ea145e.png)
 
 
 ## Technologies and Tools Used
